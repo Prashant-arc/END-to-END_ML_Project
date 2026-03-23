@@ -1,2 +1,4 @@
 seaborn 
+dill
+flask 
 -e . 
